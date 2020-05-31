@@ -266,7 +266,7 @@ body {
       margin-left: 15px;
       float: right;
       font-style: italic;
- 
+      height: 30em;
     }
   
     /* styles for main element with class flex display */
