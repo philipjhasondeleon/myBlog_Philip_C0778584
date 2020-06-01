@@ -297,6 +297,7 @@ body {
       margin-right: 0;
       padding: 0;
       width: 25%;
+     
     }
   
     /* styles for anchor tag inside nav li */
@@ -337,8 +338,8 @@ body {
     main p {
       color: #ffffff;
       margin-left: auto;
-      margin-right: 10em;
-      width: 90%;
+      margin-right: auto;
+      width: 100%;
     }
   
     /* styles specifies for item class */
@@ -392,6 +393,8 @@ body {
         float: left;
         font-style: italic;
         height: 60em;
+        color: white;
+
    
       }
   
